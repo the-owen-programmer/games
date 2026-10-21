@@ -1,0 +1,34 @@
+{
+ "files": {
+  "characters.pk3": {
+   "size": 2044315,
+   "parts": [
+    "characters.pk3"
+   ]
+  },
+  "music.pk3": {
+   "size": 99639560,
+   "parts": [
+    "music.pk3.part001",
+    "music.pk3.part002",
+    "music.pk3.part003",
+    "music.pk3.part004",
+    "music.pk3.part005"
+   ]
+  },
+  "srb2.pk3": {
+   "size": 50115266,
+   "parts": [
+    "srb2.pk3.part001",
+    "srb2.pk3.part002",
+    "srb2.pk3.part003"
+   ]
+  },
+  "zones.pk3": {
+   "size": 18503511,
+   "parts": [
+    "zones.pk3"
+   ]
+  }
+ }
+}
